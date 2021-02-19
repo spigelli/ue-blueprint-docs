@@ -10,3 +10,7 @@ Sphinx extension and parser for Unreal Engine 4 BluePrint exports
 `source .venv/bin/activate`
 
 `pip3 install -r requirements.txt`
+
+## For developers
+
+- Sphinx extension definition in `/ue-blueprint-docs/sphinx/source/_ext/`
