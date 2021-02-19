@@ -1,0 +1,1 @@
+docker run -dit --name sphinx-docs -p 8080:80 -v /home/spigelli/Documents/ue-blueprint-docs/docker/../sphinx/build/:/usr/local/apache2/htdocs/ httpd:2.4
