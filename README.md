@@ -1,5 +1,7 @@
 # ue-blueprint-docs
-Sphinx extension and parser for Unreal Engine 4 BluePrint exports
+Sphinx extension and parser for Unreal Engine 4 BluePrint exports 
+- Displays the group of BluePrints similar to an API Reference
+
 ## Installation
 `git clone http://github.com/spigelli/ue-blueprint-docs`
 
