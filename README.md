@@ -1,2 +1,12 @@
 # ue-blueprint-docs
-Python script that generates an api reference for the blueprints of an Unreal Engine project using Sphinx
+Sphinx extension and parser for Unreal Engine 4 BluePrint exports
+## Installation
+`git clone http://github.com/spigelli/ue-blueprint-docs`
+
+`cd ue-blueprint-docs`
+
+`python3 -m venv .venv`
+
+`source .venv/bin/activate`
+
+`pip3 install -r requirements.txt`
